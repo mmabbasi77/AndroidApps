@@ -1,2 +1,2 @@
 # AndroidApps
-I put all my training portfolios here in the form of Android applications
+I have put the link of all my tutorial portfolio in android app format here
